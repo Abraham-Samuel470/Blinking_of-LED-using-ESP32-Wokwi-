@@ -20,7 +20,7 @@ It blinks an LED connected to GPIO pin 2 of the ESP32.
 ---
 
 ## 📷 Circuit Simulation
-![Wokwi Circuit Screenshot](link-to-image-if-uploaded)
+![Wokwi Circuit , you can see my project here -->](https://wokwi.com/projects/435185350907811841)
 
 ---
 
